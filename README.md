@@ -2,9 +2,9 @@ Hi, I’m Rafael Pignataro and for the last 5 years I've been a Fullstack Web De
 
 I have a solid track record of building web applications with great performance and user experience. I’m very passionate about creative coding and realtime interaction-based projects.
 
-Over the years I’ve had the opportunity to improve my experience working in multiple sectors, leading and participating in both small and large teams.
+Over the years I’ve had the opportunity to improve my experience working and leading in multiple sectors and different team sizes.
 
-Currently I’m focused on Typescript, Node, Next/React, Tailwind & WebSockets. 
+Currently I’m focused on Typescript, Node, Next/React & Realtime Applications with Websockets. 
 
 If you want to talk or get a project off the ground, feel free to get in touch.
 
